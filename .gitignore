@@ -1,9 +1,3 @@
-.metadata
-analysis_options.yaml
-bmi_calculator.iml
-pubspec.lock
-pubspec.yaml
-README.md
 .dart_tool/
 .idea/
 android/
@@ -13,3 +7,9 @@ linux/
 macos/
 web/
 windows/
+.metadata
+analysis_options.yaml
+bmi_calculator.iml
+pubspec.lock
+pubspec.yaml
+README.md
