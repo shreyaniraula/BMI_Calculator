@@ -1,4 +1,0 @@
-#Sun Jul 30 22:30:58 NPT 2023
-base.0=/home/shreya/FlutterProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
